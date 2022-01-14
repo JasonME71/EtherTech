@@ -23,7 +23,6 @@ public class EtherTech
 {
     public static final String MOD_ID = "ethertech";
 
-    // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
     public EtherTech() {
