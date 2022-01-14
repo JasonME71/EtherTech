@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ethertech:ether_block"
+    }
+  ],
+  "result": {
+    "item": "ethertech:ether_ingot",
+    "count": 9
+  }
+}

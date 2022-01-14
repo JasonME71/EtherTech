@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ethertech:raw_ether_block"
+  },
+  "result": {
+    "item": "ethertech:ether_ingot",
+    "count": 9
+  },
+  "experience": 45,
+  "cookingtime": 1800
+}

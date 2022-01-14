@@ -1,5 +1,12 @@
 {
   "item.ethertech.ether_ingot": "Ether Ingot",
   "item.ethertech.ether_nugget": "Ether Nugget",
-  "block.ethertech.ether_block": "Ether Block"
+  "item.ethertech.raw_ether_ore": "Raw Ether Ore",
+
+  "block.ethertech.ether_block": "Ether Block",
+  "block.ethertech.raw_ether_block": "Raw Ether Block",
+  "block.ethertech.deepslate_ether_ore": "Deepslate Ether Ore",
+  "block.ethertech.ether_ore": "Ether Ore",
+
+  "itemGroup.ethermodtab": "Ether Mod"
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "ethertech:ether_nugget"
+    }
+  },
+  "result": {
+    "item": "ethertech:ether_ingot",
+    "count": 1
+  }
+}
