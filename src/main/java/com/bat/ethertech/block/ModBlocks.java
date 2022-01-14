@@ -22,16 +22,16 @@ public class ModBlocks {
 
     //Adds new block to the game.
     public static final RegistryObject<Block> ETHER_BLOCK = registerBlock("ether_block",
-            ()-> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
+            ()-> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(.25f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
 
     public static final RegistryObject<Block> ETHER_ORE = registerBlock("ether_ore",
-            ()-> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(1f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
+            ()-> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(.25f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
 
     public static final RegistryObject<Block> DEEPSLATE_ETHER_ORE = registerBlock("deepslate_ether_ore",
-            ()-> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(1f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
+            ()-> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(.25f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
 
     public static final RegistryObject<Block> RAW_ETHER_BLOCK = registerBlock("raw_ether_block",
-            ()-> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(1f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
+            ()-> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(.25f).requiresCorrectToolForDrops()), ModCreativeModeTab.ETHER_TAB);
 
 
 

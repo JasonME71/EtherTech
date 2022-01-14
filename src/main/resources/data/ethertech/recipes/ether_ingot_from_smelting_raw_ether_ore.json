@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ethertech:raw_ether_ore"
+  },
+  "result": "ethertech:ether_ingot",
+  "experience": 5.0,
+  "cookingtime": 200
+}

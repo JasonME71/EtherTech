@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ethertech:raw_ether_block",
+    "ethertech:ether_ore",
+    "ethertech:deepslate_ether_ore",
+    "ethertech:ether_block"
+  ]
+}
